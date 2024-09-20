@@ -1,0 +1,9 @@
+public enum OrderStatus
+{
+    ACCEPTED_ORDER,
+    REJECTED_ORDER,
+    PREPARING_FOOD,
+    PENDING_ORDER,
+    OUT_FOR_DELIVERY,
+    DELIVERED,
+}
